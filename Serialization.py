@@ -32,4 +32,3 @@ temp = patient_1.model_dump(exclude = {'address' : {'state'}})
 print(temp)
 print(type(temp))
 
-
